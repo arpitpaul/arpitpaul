@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Arpit Paul</h1>
-<h3 align="center">A passionate Analog and Digital VLSI Engineer, PCB Designer, Embedded system & FPGA system developer from India</h3>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExand5MXd6YXdxMzdndnd2eHpwZmQyYzJxdXZqeGttZDlsenE3NWQycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif" alt="Welcome, techies !!!" />
+</p>
+
+<h3 align="center">A passionate Analog and Digital VLSI Engineer, PCB Designer, Embedded system, IoT & FPGA system developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitpaul&label=Profile%20views&color=0e75b6&style=flat" alt="arpitpaul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitpaul" alt="arpitpaul" /></a> </p>
 
-- 🌱 I’m currently learning **VLSI, UVM, TCL and Perl scripting and many more in VLSI ...**
+- 🌱 I’m currently learning **VLSI, UVM, TCL and Perl scripting and many more stuff in VLSI domain ...**
 
-- 💬 Ask me about **Verilog HDL, SystemVerilog, C, C++, MATLAB, Embedded System, PCB and IoT things...**
+- 💬 Ask me about **VLSI, Digital and Analog Circuit design, Verilog HDL, SystemVerilog, C, C++, MATLAB, Embedded System, PCB design, microprocessor & microcontroller and IoT things...**
 
-- ⚡ Fun fact **I love Mathematics ...**
+- ⚡ Fun fact **I love Mathematics ♥️ ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +29,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitpaul&show_icons=true&locale=en" alt="arpitpaul" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+<h1 align="center">Thank you! for visiting, my friend 🙏 </h1>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ2OTFsdW82ZDEyODdiZmN0Yno4M3R2c2Q1dWl0emxuazZhNDlqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9SbqYlkAnMgp3BuSqw/giphy.gif" alt="Goodbye, techies !!!" />
+</p>
+
+
 
